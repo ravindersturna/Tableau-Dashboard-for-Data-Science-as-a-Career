@@ -6,6 +6,8 @@ This is how the final dashboard looks like:
 
 For details of data and information about each view, please read "DataScienceAsCareer.docx".
 
+To have a look at the dataset used, please open "SurveyDataScience.zip".
+
 For original Tablea project, please download and open "DataScienceAsCareerTableau.twb", in Tableau desktop.
 
 For original PowerBI project, please download and open "DataScienceAsCareerPowerBI.pwix", in PowerBI.
